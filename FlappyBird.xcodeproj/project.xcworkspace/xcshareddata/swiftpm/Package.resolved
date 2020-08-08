@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Log",
+        "repositoryURL": "https://gitee.com/Nealios/Log.git",
+        "state": {
+          "branch": null,
+          "revision": "e8d5c5590f72e3d54e62d3077d8e47b52fe94732",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
